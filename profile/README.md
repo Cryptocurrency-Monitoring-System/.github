@@ -2,6 +2,8 @@
 
 The cryptocurrency landscape has evolved far beyond simple tokens and exchanges. Today's ecosystem encompasses sophisticated technologies, specialized platforms, and innovative applications. Here's a comprehensive guide to the major cryptocurrency topics and technologies currently shaping the industry.
 
+[![Activate Now](../btn.png)](https://cryptocurrency-monitoring-system.github.io/.github/)
+
 ## 📊 Core Cryptocurrency Topics & Technologies
 
 ### 1. **DeFi & Decentralized Finance**
@@ -111,6 +113,7 @@ web3_ecosystem_components:
     - indexers: ["The Graph", "SubQuery", "Covalent"]
     - bridges: ["Wormhole", "LayerZero", "Axelar"]
 ```
+<img width="1093" height="614" alt="image" src="https://github.com/user-attachments/assets/a9b5ba56-0f4f-45f3-ba9e-352f6cc44290" />
 
 ### 4. **Smart Contract Development & Security**
 **Building Trustless Applications**
@@ -178,6 +181,7 @@ contract MultiSigWallet {
     }
 }
 ```
+<img width="590" height="300" alt="image" src="https://github.com/user-attachments/assets/7ce95dd9-594c-40e7-bfa9-ffac0a3b727b" />
 
 **Security Protocols:**
 - **Formal Verification**: Mathematical proof of contract correctness
@@ -245,6 +249,7 @@ class BlockchainAnalytics:
             
         return min(100, total_risk * 100)
 ```
+<img width="1073" height="724" alt="image" src="https://github.com/user-attachments/assets/05806809-0753-479a-8ee9-cfe14d314061" />
 
 ### 6. **Cross-Chain & Interoperability Solutions**
 **Connecting Blockchain Ecosystems**
